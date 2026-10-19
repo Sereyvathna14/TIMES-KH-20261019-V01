@@ -1,0 +1,974 @@
+[
+  {
+    "CaseId": 1208,
+    "CreatedOn": "2026-10-12 03:51",
+    "Description": "",
+    "EditedOn": "2026-10-13 22:09",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "BAU-PDP-Scenario",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "BAU-SCENARIO-PDP",
+    "ScenarioGroupId": 2722,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1209,
+    "CreatedOn": "2026-06-04 14:40",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "BAU-Sccenario",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "BAU-SCENARIO",
+    "ScenarioGroupId": 2721,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1210,
+    "CreatedOn": "2026-10-12 04:07",
+    "Description": "",
+    "EditedOn": "2026-10-13 22:07",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "CNDC-PDP",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "CNDC-PDP",
+    "ScenarioGroupId": 2724,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1211,
+    "CreatedOn": "2026-06-05 01:08",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "CNDC-Scenatio",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "CNDC-20260606",
+    "ScenarioGroupId": 2723,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1212,
+    "CreatedOn": "2026-06-01 08:50",
+    "Description": "10% of CO2 Emissions Reduction",
+    "EditedOn": "2026-10-12 04:32",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "KHM-C02BND-10",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "KHM_CO2BND_10%",
+    "ScenarioGroupId": 2727,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1213,
+    "CreatedOn": "2026-06-01 08:49",
+    "Description": "5% of CO2 Emissions Reduction",
+    "EditedOn": "2026-10-12 04:32",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "KHM-CO2BND-05",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "KHM_CO2BND_05%",
+    "ScenarioGroupId": 2726,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1214,
+    "CreatedOn": "2026-06-01 09:22",
+    "Description": "50% of CO2 Emissions Reduction",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "KHM-CO2BND-50",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "KHM_CO2BND_50%",
+    "ScenarioGroupId": 2735,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1215,
+    "CreatedOn": "2026-06-01 09:11",
+    "Description": "90% of CO2 Emissions Reduction",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "KHM-CO2BND-90",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "KHM_CO2BND_90%",
+    "ScenarioGroupId": 2743,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1216,
+    "CreatedOn": "2026-06-08 11:25",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-ONLY-BIO",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-ONLY-BIO",
+    "ScenarioGroupId": 2746,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1217,
+    "CreatedOn": "2026-06-08 11:21",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-ONLY-BSOL",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-ONLY-BSOL",
+    "ScenarioGroupId": 2747,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1218,
+    "CreatedOn": "2026-06-08 11:24",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-ONLY-HYD",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-ONLY-HYD",
+    "ScenarioGroupId": 2748,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1219,
+    "CreatedOn": "2026-06-08 11:21",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-ONLY-PHYD",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-ONLY-PHYD",
+    "ScenarioGroupId": 2749,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1220,
+    "CreatedOn": "2026-06-08 11:20",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-ONLY-SOL",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-ONLY-SOL",
+    "ScenarioGroupId": 2750,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1221,
+    "CreatedOn": "2026-06-08 11:20",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-ONLY-WIN",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-ONLY-WIN",
+    "ScenarioGroupId": 2751,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1222,
+    "CreatedOn": "2026-10-12 04:07",
+    "Description": "",
+    "EditedOn": "2026-10-13 22:07",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-PDP",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "CNDC-PDP",
+    "ScenarioGroupId": 2724,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1223,
+    "CreatedOn": "2026-06-05 01:34",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "LTS4CN-Scenario",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "LTS4CN-20260606",
+    "ScenarioGroupId": 2745,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1224,
+    "CreatedOn": "2026-10-12 04:08",
+    "Description": "",
+    "EditedOn": "2026-10-13 22:07",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "UNDC-PDP",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "UNDC-PDP",
+    "ScenarioGroupId": 2755,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  },
+  {
+    "CaseId": 1225,
+    "CreatedOn": "2026-06-04 15:40",
+    "Description": "",
+    "EditedOn": "2026-10-12 04:22",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.9.1",
+    "Name": "UNDC-Scenario",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "pdef-8",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 2720,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 2719,
+    "ScenarioGroup": "UNDC-20260606",
+    "ScenarioGroupId": 2754,
+    "Solver": "cplex",
+    "SolverOptionFile": "BA121-7",
+    "UserName": "red",
+    "ModelFramework": "Times"
+  }
+]
